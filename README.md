@@ -1,6 +1,8 @@
 # move_app
 
-A new Flutter application.
+A Flutter application which shows the layout of our app idea for an extension to the BMTC app.
+
+**Disclaimer: This is simply a demonstration of the expected UI and currently is not a functional app.**
 
 ## Getting Started
 
